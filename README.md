@@ -4,3 +4,4 @@ big-data
 1. Make dataframes(RDD, Pandas) and Find Max value, Min value.    
 2. Clustering-DBScan on Scikit Learn
 3. Clustering-KMeans on Spark     
+4. Linear Regression on Spark
